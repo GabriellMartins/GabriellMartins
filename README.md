@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre Mim
-Olá! Sou [seu nome], um apaixonado por desenvolvimento e entusiasta do Minecraft Bukkit. Tenho experiência em criar plugins personalizados para servidores Minecraft usando a plataforma Bukkit. Além disso, sou especializado em JavaScript e desenvolvimento de bots Discord usando Node.js.
+Olá! Sou gabrielmartins, um apaixonado por desenvolvimento e entusiasta do Minecraft Bukkit. Tenho experiência em criar plugins personalizados para servidores Minecraft usando a plataforma Bukkit. Além disso, sou especializado em JavaScript e desenvolvimento de bots Discord usando Node.js.
 
 ## Habilidades
 
@@ -11,28 +11,16 @@ Olá! Sou [seu nome], um apaixonado por desenvolvimento e entusiasta do Minecraf
 - HTML, CSS e desenvolvimento web
 - Git e controle de versão
 
-## Projetos Destacados
+## Contribuições em Projetos privados!
 
-### Minecraft Bukkit Plugins
-
-1. **[Nome do Plugin 1](link-para-o-repositório):** Descrição breve do plugin e suas funcionalidades principais.
-2. **[Nome do Plugin 2](link-para-o-repositório):** Descrição breve do plugin e suas funcionalidades principais.
-
-### Bots Discord
-
-1. **[Nome do Bot 1](link-para-o-repositório):** Descrição breve do bot e suas funcionalidades principais.
-2. **[Nome do Bot 2](link-para-o-repositório):** Descrição breve do bot e suas funcionalidades principais.
-
-## Contribuições em Projetos Open Source
-
-- **[Nome do Projeto](link-para-o-repositório):** Breve descrição da contribuição que você fez no projeto.
+- **[Flame-remastered]([link-para-o-repositório](https://github.com/flamemc-remastered)):** Breve descrição da contribuição que você fez no projeto.
 
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-se à vontade para entrar em contato comigo:
 
-- E-mail: seuemail@example.com
-- Discord: SeuNome#1234
+- E-mail: gabriel.martinsnp@icloud.com
+- Discord: gabrielm.2025
 
 ## Agradecimentos
 
