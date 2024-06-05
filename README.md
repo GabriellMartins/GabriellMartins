@@ -1,30 +1,21 @@
-Bem-vindo ao meu Perfil!
-Sobre Mim
-Olá! Meu nome é [GabrielMartins] e sou um entusiasta da tecnologia. Atualmente, estou explorando diversas áreas, incluindo desenvolvimento de software, ciência de dados e aprendizado de máquina. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
+# Sobre Mim
 
-# Linguagens e Tecnologias
-Aqui estão algumas das linguagens de programação e tecnologias com as quais estou familiarizado:
+Olá! Sou [GabrielMartins], um entusiasta da tecnologia apaixonado por desenvolvimento de software e colaboração em projetos inovadores.
 
-Java
-TypeScript
-HTML
-JavaScript
-MySQL
-MongoDB
+## Linguagens e Tecnologias
+- Java
+- TypeScript
+- HTML
+- JavaScript
+- MySQL
+- MongoDB
 
-# Sistemas Operacionais
-Trabalho confortavelmente nos sistemas operacionais:
+## Sistemas Operacionais
+- Windows
+- Linux
 
-Windows
-Linux
+## Como Entrar em Contato
+Para discutir oportunidades de colaboração ou apenas trocar ideias, sinta-se à vontade para entrar em contato comigo por e-mail: seu_email@example.com
 
-# Projetos
-lostmc: my private projetc
-
-# Como Entrar em Contato
-Se quiser discutir sobre tecnologia, colaborar em projetos interessantes ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo por e-mail: gabrielnpmartins@hotmail.com
-
-# Redes Sociais
-LinkedIn
-Twitter
-GitHub
+## Redes Sociais
+- [GitHub](https://github.com/GabriellMartins/)
