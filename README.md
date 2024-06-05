@@ -15,7 +15,7 @@ Olá! Sou [GabrielMartins], um entusiasta da tecnologia apaixonado por desenvolv
 - Linux
 
 ## Como Entrar em Contato
-Para discutir oportunidades de colaboração ou apenas trocar ideias, sinta-se à vontade para entrar em contato comigo por e-mail: seu_email@example.com
+Para discutir oportunidades de colaboração ou apenas trocar ideias, sinta-se à vontade para entrar em contato comigo por e-mail: gabrielnpmartins@hotmail.com
 
 ## Redes Sociais
 - [GitHub](https://github.com/GabriellMartins/)
