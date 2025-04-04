@@ -7,8 +7,6 @@
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
