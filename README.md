@@ -17,14 +17,6 @@
 
 &nbsp;
 
-<h3 align="center">💬 Meu Discord</h3>
-
-<div align="center">
-  <img src="https://api.victims.bio/discord/user/discord-arts/1215486488385425437/card" alt="Discord Profile Card"/>
-</div>
-
-&nbsp;
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table>
