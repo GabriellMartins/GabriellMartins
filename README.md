@@ -1,20 +1,48 @@
-<h1 align="center">Hi there, GabrielMartins 👋</h1>
-<div align="center">
-<p>Oi, meu nome é Gabriel Martins, sou um desenvolvedor backend apaixonado por criar aplicações escaláveis e robustas. Gosto de trabalhar em soluções que resolvem problemas do mundo real, garantindo desempenho, segurança e eficiência no processamento de dados. Estou sempre aprendendo e explorando novas tecnologias para me manter atualizado com as tendências do setor.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
 
-<p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade de desenvolvedores. 🚀</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=1000&lines=Fala%2C+devs!+Eu+sou+o+Nathan;Desenvolvedor+Full-Stack+com+amor+por+c%C3%B3digo+limpo)](https://git.io/typing-svg)
+
+&nbsp;
+
+<div align="center">
+  <h2>💻 Minhas Tecnologias</h2><br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,java,python,go,docker,mysql,mongodb,postgres,tailwind,graphql" alt="Tech Stack"/>
+  </p>
 </div>
-<h2 align="center">🛠 Tech Stack</h2>
+
+&nbsp;
+
+<h3 align="center">💙 Perfil no Discord</h3>
+
 <div align="center">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
-<h2 align="center">🛠 My Stats</h2>
+  <img src="https://api.victims.bio/discord/user/discord-arts/922871214312144926/card" alt="Discord Profile Card"/>
+</div>
+
+&nbsp;
+
+<h2 align="center">📊 Minhas Estatísticas</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=171ntw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=171ntw&layout=compact&theme=tokyonight&hide_border=true&hide=visual%20basic"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">GabrielMartins</a></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=171ntw&theme=react-dark&custom_title=Atividades+Recentes"/>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <p>👀 Visitantes</p>
+  <img src="https://profile-counter.glitch.me/171ntw/count.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
