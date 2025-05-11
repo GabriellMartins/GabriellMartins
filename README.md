@@ -40,8 +40,7 @@
   <p>👀 Visitantes no perfil</p>
   <!-- Contador real invisível -->
   <img src="https://profile-counter.glitch.me/gabrielmartins/count.svg" style="opacity: 0; position: absolute;" />
-  <!-- Contador fake visível -->
-  <img src="https://fakeimg.pl/140x30/000000/00ffff/?text=8.153+visitas&font=lobster" />
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
