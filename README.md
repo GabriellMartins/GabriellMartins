@@ -26,18 +26,16 @@
 
 &nbsp;
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 Linguagens mais utilizadas</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabrielmartins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=visual%20basic"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-60%25-yellow?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-40%25-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,javascript,css" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmartins&theme=react-dark&custom_title=Atividades+Recentes+de+Gabriel+Martins"/>
