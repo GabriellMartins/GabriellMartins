@@ -5,18 +5,18 @@
 &nbsp;
 
 <div align="center">
-  <h2>☕ Language that powers my keyboard</h2><br>
+  <h2>☕ The language that fuels my code</h2><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java" alt="Main Language: Java" height="50"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/>
   </p>
 </div>
 
 &nbsp;
 
 <div align="center">
-  <h2>🧠 Tech I use daily</h2><br>
+  <h2>🧠 Tools & Technologies I use daily</h2><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,ts,spring,hibernate" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,spring,hibernate" alt="Back-End Tools"/>
     <img src="https://img.shields.io/badge/ADVPL-02569B?style=for-the-badge&logoColor=white" alt="ADVPL Badge"/>
     <br><br>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases"/>
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,javascript,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=javascript,html,css" />
 </p>
 
 <div align="center">
