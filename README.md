@@ -1,51 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=007FFF&center=true&vCenter=true&width=1000&lines=Hey%2C+devs!+I'm+Gabriel+Martins;Java+Specialist+%7C+Modern+Back-End+Stack+Enthusiast)](https://git.io/typing-svg)
-
-&nbsp;
-
-<div align="center">
-  <h2>☕ The language that fuels my code</h2><br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/>
-  </p>
-</div>
-
-&nbsp;
-
-<div align="center">
-  <h2>🧠 Tools & Technologies I use daily</h2><br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,spring,hibernate" alt="Back-End Tools"/>
-    <img src="https://img.shields.io/badge/ADVPL-02569B?style=for-the-badge&logoColor=white" alt="ADVPL Badge"/>
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases"/>
-    <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
-  </p>
-</div>
-
-&nbsp;
-
-<h2 align="center">📈 Most used languages</h2>
-
+<h1 align="center">Gabriel Martins</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-60%25-yellow?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-40%25-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  Desenvolvedor Backend | Java & TypeScript | APIs e Microsserviços
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=javascript,html,css" />
+  <a href="https://github.com/GabrielMartins">
+    <img src="https://img.shields.io/github/followers/GabrielMartins?label=Seguidores&style=social" />
+  </a>
+  <a href="https://discord.com/users/sh4wsz">
+    <img src="https://img.shields.io/badge/Discord-sh4wsz-5865F2?logo=discord&logoColor=white" />
+  </a>
 </p>
 
+---
+
+### 🚀 Sobre mim
+
+Sou desenvolvedor backend com foco em soluções performáticas, escaláveis e bem arquitetadas. Especialista em **Java (Spring Boot)** e **TypeScript (Node.js/NestJS)**, gosto de trabalhar com APIs modernas, autenticação segura e integração com diversos serviços.
+
+---
+
+### 💻 Tecnologias
+
+**Backend:**
+- Java, Spring Boot
+- TypeScript, Node.js, NestJS
+
+**Banco de Dados:**
+- PostgreSQL, MongoDB, Redis
+
+**DevOps & Outros:**
+- Docker, GitHub Actions, Swagger
+
+---
+
+### 📊 Estatísticas
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmartins&theme=react-dark&custom_title=Gabriel+Martins'+Recent+Activity"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartins&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartins&layout=compact&theme=github_dark" />
 </div>
 
-&nbsp;
+---
 
-<div align="center" style="position: relative;">
-  <p>👀 Profile views</p>
-  <img src="https://profile-counter.glitch.me/gabrielmartins/count.svg" />
-</div>
+### 📫 Contato
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=120&section=footer"/>
+- Discord: **sh4wsz**
+
+---
+
+_“Código limpo é como uma poesia: fácil de ler, difícil de esquecer.”_
