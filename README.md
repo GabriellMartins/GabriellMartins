@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielMartins">
-    <img src="https://img.shields.io/github/followers/GabrielMartins?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/GabriellMartins?style=social" alt="GitHub followers" />
   </a>
   <a href="https://discord.com/users/sh4wsz">
     <img src="https://img.shields.io/badge/Discord-sh4wsz-5865F2?logo=discord&logoColor=white" alt="Discord" />
@@ -53,7 +53,7 @@ Docker • GitHub Actions • Swagger • Git • CI/CD Pipelines
 ### 📫 Contato
 
 - Discord: **sh4wsz**
-- GitHub: [@GabrielMartins](https://github.com/GabrielMartins)
+- GitHub: [@GabrielMartins](https://github.com/GabriellMartins)
 
 ---
 
