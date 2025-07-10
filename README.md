@@ -1,6 +1,6 @@
 <h1 align="center">Gabriel Martins</h1>
 <p align="center">
-  Desenvolvedor Backend | Java & TypeScript | APIs, Microsserviços e Sistemas Escaláveis
+  Desenvolvedor Backend • Java & TypeScript • APIs, Microsserviços e Sistemas Escaláveis
 </p>
 
 <div align="center">
@@ -14,47 +14,47 @@
 
 ---
 
-### 👨‍💻 Sobre
+### 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend com foco em qualidade de código, arquitetura limpa e desempenho. Trabalho com Java e TypeScript para construir APIs RESTful modernas, seguras e escaláveis, além de integrar serviços de autenticação, mensageria e bancos de dados.
+Sou desenvolvedor backend com experiência sólida em **Java (Spring Boot)** e **TypeScript (Node.js/NestJS)**. Tenho como prioridade a criação de sistemas bem arquitetados, performáticos e seguros, aplicando princípios de **Clean Architecture**, **SOLID** e boas práticas de desenvolvimento.
 
-Atualmente, meu foco está em:
+Atuo no desenvolvimento de:
 
-- Arquitetura de microsserviços
-- Integração de APIs e sistemas distribuídos
-- Modelagem de dados eficiente com MongoDB e PostgreSQL
-- Autenticação com JWT e OAuth2
-- Ambientes isolados com Docker
-
----
-
-### 🛠️ Stack principal
-
-| Categoria        | Tecnologias principais                                 |
-|------------------|--------------------------------------------------------|
-| **Linguagens**   | Java, TypeScript                                       |
-| **Frameworks**   | Spring Boot, Node.js, NestJS                           |
-| **Bancos de Dados** | PostgreSQL, MongoDB, Redis                         |
-| **DevOps**       | Docker, GitHub Actions                                 |
-| **Outros**       | Swagger, REST APIs, Clean Architecture                 |
+- APIs RESTful escaláveis
+- Microsserviços desacoplados
+- Sistemas de autenticação com OAuth2 / JWT
+- Integração entre serviços (REST, Webhook, fila)
+- Infraestrutura com Docker e pipelines CI/CD
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tecnologias
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielMartins&show_icons=true&theme=github_dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartins&layout=compact&theme=github_dark" />
-</div>
+**Linguagens & Frameworks**  
+Java • Spring Boot • TypeScript • Node.js • NestJS
+
+**Bancos de Dados**  
+PostgreSQL • MongoDB • Redis
+
+**DevOps & Ferramentas**  
+Docker • GitHub Actions • Swagger • Git • CI/CD Pipelines
+
+---
+
+### 💼 O que me diferencia
+
+- Mentalidade orientada a arquitetura, segurança e escalabilidade  
+- Experiência com modelagem de dados eficiente (relacional e NoSQL)  
+- Foco em qualidade de código, testes e versionamento limpo  
+- Comunicação clara, autonomia e comprometimento técnico  
 
 ---
 
 ### 📫 Contato
 
 - Discord: **sh4wsz**
+- GitHub: [@GabrielMartins](https://github.com/GabrielMartins)
 
 ---
 
-<p align="center">
-  <em>“Sistemas robustos são construídos com código limpo, testes confiáveis e arquitetura bem pensada.”</em>
-</p>
+<p align="center"><em>“A excelência em desenvolvimento está nos detalhes invisíveis que garantem a robustez do todo.”</em></p>
