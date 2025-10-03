@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 ![Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellMartins&show_icons=true&count_private=true&hide_border=true&title_color=8e44ad&icon_color=8e44ad&text_color=c9d1d9&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMartins&layout=compact&hide_border=true&title_color=8e44ad&text_color=8e44ad&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMartins&layout=compact&hide_border=true&title_color=8e44ad&text_color=8e44ad&bg_color=0d1117&hide=c,c++)
 
 ---
 
