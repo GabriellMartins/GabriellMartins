@@ -22,6 +22,8 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer"/>
+
 <p align="center"> 
+  👀 Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/GabriellMartins/count.svg" />
 </p>
