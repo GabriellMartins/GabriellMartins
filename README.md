@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
 
-# 👋 Olá, eu sou Shaw  
+# 👋 Olá, eu sou Gabriel  
 
 💻 Desenvolvedor focado em **Java** e **Kotlin**  
 ✨ Apaixonado por tecnologia, código limpo e aprendizado constante  
