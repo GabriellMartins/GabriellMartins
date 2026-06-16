@@ -1,29 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
+<div align="center">
 
-# 👋 Olá, eu sou Gabriel  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:8A2BE2,100:00BFFF&text=Gabriel%20Martins&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20☕%20|%20Full%20Stack%20Developer%20🚀&descSize=18&descAlignY=58"/>
 
-💻 Desenvolvedor focado em **Java** e **Kotlin**  
-✨ Apaixonado por tecnologia, código limpo e aprendizado constante  
-🌱 Sempre explorando novas ideias e contribuindo para a comunidade  
+# 👋 Olá, eu sou Gabriel Martins
 
----
+### ☕ Desenvolvedor Java • 🚀 Full Stack • 🖥️ Infraestrutura
 
-## 🚀 Tecnologias que uso
-![Java](https://img.shields.io/badge/Java-8e44ad?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-8e44ad?style=for-the-badge&logo=kotlin&logoColor=white)
+</div>
 
----
-
-## 📊 GitHub Stats
-![Shaw GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellMartins&show_icons=true&count_private=true&hide_border=true&title_color=8e44ad&icon_color=8e44ad&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMartins&layout=compact&hide_border=true&title_color=8e44ad&text_color=8e44ad&bg_color=0d1117&hide=c,c++)
+<p align="center">
+  <a href="www.linkedin.com/in/gabriel-martins-ab9135417/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielrmartins100@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer"/>
+## 🚀 Sobre Mim
 
-<p align="center"> 
-  👀 Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/GabriellMartins/count.svg" />
+Desde os **14 anos**, sou apaixonado por programação.
+
+Minha jornada começou através da curiosidade de entender como funcionavam os sistemas por trás dos jogos que eu jogava. Foi nesse momento que conheci a linguagem **Java**, tecnologia que se tornou minha principal especialidade e me acompanha até hoje.
+
+Atualmente atuo com desenvolvimento de software, infraestrutura e suporte corporativo, sempre buscando aprimorar meus conhecimentos e criar soluções eficientes para problemas reais.
+
+---
+
+<div align="center">
+
+## ⚡ Tecnologias
+
+</div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,gradle,docker,linux,git,postgres,mysql,mongodb,nextjs,react,ts,js"/>
+</p>
+
+---
+
+<div align="center">
+
+## 📈 Estatísticas
+
+</div>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabriellMartins&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMartins&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabriellMartins&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🏆 Principais Competências
+
+</div>
+
+```txt
+☕ Java
+⚙️ APIs REST
+🗄️ PostgreSQL
+🐳 Docker
+🐧 Linux
+🔄 Git
+⚛️ React
+▲ Next.js
+🧩 Arquitetura de Software
+🚀 Resolução de Problemas
+```
+
+---
+
+<div align="center">
+
+## 🎯 Atualmente Estudando
+
+</div>
+
+* Spring Boot
+* Microsserviços
+* Arquitetura de Software
+* Docker Avançado
+* PostgreSQL
+* Cloud Computing
+
+---
+
+<div align="center">
+
+---
+
+<div align="center">
+
+## 📫 Contato
+
+</div>
+
+📧 **[gabrielrmartins100@outlook.com.br](mailto:gabrielrmartins100@outlook.com.br)**
+
+💼 **LinkedIn:** [www.linkedin.com/in/gabriel-martins-ab9135417/](http://www.linkedin.com/in/gabriel-martins-ab9135417/)
+
+---
+
+<div align="center">
+
+### 💡 "A tecnologia move o mundo. O conhecimento move a tecnologia."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=0:00BFFF,50:8A2BE2,100:6C63FF"/>
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/GabriellMartins/count.svg"/>
 </p>
