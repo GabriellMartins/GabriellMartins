@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Gabriel Martins
 
-### ☕ Desenvolvedor Java • 🚀 Full Stack • 🖥️ Infraestrutura • 🔐 Cybersecurity
+### ☕ Desenvolvedor Java • 🚀 Full Stack • 🖥️ Infraestrutura
 
 </div>
 
